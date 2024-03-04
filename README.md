@@ -149,9 +149,7 @@ We try to make sure Dashboard works well in the latest versions of all major bro
 ## Reporting Issues
 
 JustBoil's free items are limited to community support on GitHub.
-
 The issue list is reserved exclusively for bug reports and feature requests. That means we do not accept usage questions. If you open an issue that does not conform to the requirements, it will be closed.
-
 1. Make sure that you are using the latest version of the Dashboard. Issues for outdated versions are irrelevant
 2. Provide steps to reproduce
 3. Provide an expected behavior
